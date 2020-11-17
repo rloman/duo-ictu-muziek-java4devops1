@@ -26,14 +26,14 @@ public class Application {
         System.out.println(harpje);
         System.out.println(anderHarpje);
 
-        System.out.println(harpje.aantalKerenGespeeld);
-        System.out.println(anderHarpje.aantalKerenGespeeld);
+        System.out.println(harpje.getAantalKerenGespeeld());
+        System.out.println(anderHarpje.getAantalKerenGespeeld());
 
         harpje.play();
         harpje.play();
         anderHarpje.play();
 
-        System.out.println(harpje.aantalKerenGespeeld);
-        System.out.println(anderHarpje.aantalKerenGespeeld);
+        System.out.println(harpje.getAantalKerenGespeeld());
+        System.out.println(anderHarpje.getAantalKerenGespeeld());
     }
 }
