@@ -7,8 +7,19 @@ package nl.duo.muziek.oo;
 public class Viool {
 
     int age;
+    String manufacturer;
 
-    public Viool(int age) {
+
+    public Viool() {
+
+    }
+
+    public Viool(String manufacturer) {
+        this.manufacturer = manufacturer;
+    }
+
+    public Viool(int age, String manufacturer) {
         this.age = age;
+        this.manufacturer = manufacturer;
     }
 }
