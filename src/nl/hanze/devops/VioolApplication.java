@@ -11,7 +11,7 @@ public class VioolApplication {
             System.out.println(n);
         }
 
-        System.out.println("Hieronder de basic for loop =>");
+        System.out.println("Hieronder de basic for loop => ");
 
         // Basic for (dan moet je zelf het werk doen)
         for(int i = 0;i<numbers.length;i++) {
