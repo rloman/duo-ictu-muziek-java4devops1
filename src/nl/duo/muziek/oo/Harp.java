@@ -8,8 +8,14 @@ public class Harp extends MuziekInstrument {
     double price;
     String manufacturer;
 
+    public void harpPlaying() {
 
+    }
 
+    @Override
+    public void play() {
+        System.out.println("Playing harp ... ");
+    }
 
     @Override
     public String toString() {

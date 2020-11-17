@@ -8,8 +8,10 @@ public class Application {
 
         System.out.println(trompet.getManufacturer());
 
-        MuziekInstrument m = new MuziekInstrument("DD");
+        MuziekInstrument m = new MuziekInstrument("Janssen & Co");
 
         System.out.println(m);
+
+        trompet.play();
     }
 }

@@ -1,6 +1,6 @@
 package nl.duo.muziek.oo;
 
-public class MuziekInstrument {
+public class MuziekInstrument /*extends Object (impliciet) */ {
 
     // Opdracht
     // Verplaats het field 'aantalKerenGespeeld' vanuit jouw Harp/Viool naar de nieuwe class 'MuziekInstrument'
