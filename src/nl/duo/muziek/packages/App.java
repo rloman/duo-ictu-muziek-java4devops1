@@ -1,4 +1,4 @@
-package nl.duo.muziek.whereisit;
+package nl.duo.muziek.packages;
 
 
 public class App {

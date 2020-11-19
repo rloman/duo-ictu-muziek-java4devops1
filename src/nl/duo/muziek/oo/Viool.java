@@ -23,7 +23,7 @@ public class Viool extends MuziekInstrument {
         return price;
     }
 
-    void setPrice(double price) {
+    public void setPrice(double price) {
         this.price = price;
     }
 }

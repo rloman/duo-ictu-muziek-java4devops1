@@ -1,4 +1,7 @@
-package nl.duo.muziek.oo;
+package nl.duo.muziek.collections;
+
+import nl.duo.muziek.oo.MuziekInstrument;
+import nl.duo.muziek.oo.Viool;
 
 public class VioolArrayApp {
 

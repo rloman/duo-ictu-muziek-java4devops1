@@ -1,4 +1,4 @@
-package nl.hanze.devops;
+package nl.duo.muziek.loops;
 
 public class DoWhileLoop {
 

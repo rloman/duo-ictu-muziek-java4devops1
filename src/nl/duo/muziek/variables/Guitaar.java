@@ -1,3 +1,5 @@
+package nl.duo.muziek.variables;
+
 public class Guitaar {
 
     int aantalSnaren; // this is a field, instance variable, (eigenschap van een classe instantie (object))
